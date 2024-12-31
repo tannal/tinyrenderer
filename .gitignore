@@ -1,2 +1,3 @@
+.cache/
 build/
-framebuffer.tga
+*.tga
